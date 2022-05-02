@@ -1,2 +1,2 @@
-# CurriculumVitae
+# Leandro Toledo
 My personal CV
